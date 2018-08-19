@@ -1,0 +1,25 @@
+{
+  "name": "newfile",
+  "version": "1.0.0",
+  "description": "for npm install",
+  "main": "npm-lab-v-000",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashley3schultz/npm-lab-v-000.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "ashley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashley3schultz/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/ashley3schultz/npm-lab-v-000#readme"
+}
